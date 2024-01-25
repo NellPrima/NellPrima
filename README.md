@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-My name is Chanell Cousin and I am a Web Designer that focuses on brand identidy, visual and publication design. 
+My name is Chanell Cousin and I am a Frontend Developer that focuses on brand identidy, visual and publication design. 
 
 - 🌱 I’m currently learning SASS, Javascript, branding and logo design.
 
